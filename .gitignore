@@ -1,5 +1,4 @@
-pollster/pollster/__pycache__/__init__.cpython-310.pyc
-pollster/pollster/__pycache__/settings.cpython-310.pyc
-pollster/pollster/__pycache__/urls.cpython-310.pyc
-pollster/pollster/__pycache__/wsgi.cpython-310.pyc
+pollster/pollster/__pycache__/*
+pollster/polls/__pycache__/*
+pollster/polls/migrations/*
 pollster/db.sqlite3
