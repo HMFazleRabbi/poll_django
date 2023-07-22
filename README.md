@@ -6,6 +6,6 @@ Building a polling application using Django framework. It’ll consist of two pa
 - An admin site that lets you add, change, and delete polls.
 
 
-Anaconda Env
+**Anaconda Env**
 
 conda activate poll_dj
