@@ -7,13 +7,14 @@ Building a polling application using Django framework. It’ll consist of two pa
 
 
 
-**Anaconda Env**
+**Anaconda Setup**
 
 ```python
+conda create --name poll_dj
 conda activate poll_dj
 ```
 
-**Virtual Env**
+**Virtual Environment Setup**
 ```python
 pip install virtualenv
 virtualenv venv
