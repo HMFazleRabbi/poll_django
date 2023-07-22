@@ -11,3 +11,9 @@ Building a polling application using Django framework. It’ll consist of two pa
 ```python
 conda activate poll_dj
 ```
+
+```python
+pip install virtualenv
+virtualenv venv
+venv\Scripts\activate.bat
+```
