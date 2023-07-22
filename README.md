@@ -8,4 +8,6 @@ Building a polling application using Django framework. It’ll consist of two pa
 
 **Anaconda Env**
 
+```python
 conda activate poll_dj
+```
