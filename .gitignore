@@ -2,3 +2,4 @@ pollster/pollster/__pycache__/*
 pollster/polls/__pycache__/*
 pollster/polls/migrations/*
 pollster/db.sqlite3
+pollster/pages/__pycache__/*

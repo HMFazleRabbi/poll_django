@@ -21,6 +21,11 @@ virtualenv venv
 venv\Scripts\activate.bat
 ```
 
+**Create App**
+```python
+python manage.py startapp pages
+```
+
 **Run server**
 ```python
 python manage.py runserver
