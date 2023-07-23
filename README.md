@@ -32,10 +32,16 @@ python manage.py runserver
 ```
 
 **Pages**
+
+
 ![Landing Page](https://github.com/HMFazleRabbi/poll_django/assets/55730363/53f1beb0-7469-4dd8-822a-0db42828b28e)
+
 ![Poll questions](https://github.com/HMFazleRabbi/poll_django/assets/55730363/f25ac784-0051-48e1-aa07-8c77a83e6495)
-![3](https://github.com/HMFazleRabbi/poll_django/assets/55730363/68ca7af2-4ba9-4855-a12e-859ca62ac172)
-![4](https://github.com/HMFazleRabbi/poll_django/assets/55730363/319ebc83-8773-41de-a5bc-63ab39c94045)
+
+![Vote](https://github.com/HMFazleRabbi/poll_django/assets/55730363/68ca7af2-4ba9-4855-a12e-859ca62ac172)
+
+![Result](https://github.com/HMFazleRabbi/poll_django/assets/55730363/319ebc83-8773-41de-a5bc-63ab39c94045)
+
 
 
 
